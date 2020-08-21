@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "BLANK",
+    "firebase_url": "BLANK",
+    "project_id": "BLANK",
+    "storage_bucket": "BLANK"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "BLANK",
+        "android_client_info": {
+          "package_name": "com.siempre.siempreone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "BLANK",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "BLANK"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "BLANK",
+              "client_type": 3
+            },
+            {
+              "client_id": "BLANK",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.siempre.SiempreOne"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "BLANK",
+        "android_client_info": {
+          "package_name": "com.siempre.siemprewatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "BLANK",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "BLANK"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "BLANK",
+              "client_type": 3
+            },
+            {
+              "client_id": "BLANK",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.siempre.SiempreOne"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
